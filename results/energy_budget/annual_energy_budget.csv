@@ -1,0 +1,2 @@
+﻿Period,Start,End,Duration_days,Interval_count,Qnet_filled_points,E_Qnet_MJ_m2,Delta_H_MJ_m2,E_residual_MJ_m2,Mean_Qnet_W_m2,Mean_storage_change_W_m2,Mean_residual_W_m2,Storage_to_Qnet_percent,Residual_fraction_percent
+2024 observation period,2024-01-01 00:10:00,2024-12-31 23:50:00,365.99305555555554,52703,45,1662.268809445378,-4.753581788840919,1667.0223912342194,52.567178637692294,-0.1503260974657015,52.717504735158,-0.28596949914658926,100.2859694991466

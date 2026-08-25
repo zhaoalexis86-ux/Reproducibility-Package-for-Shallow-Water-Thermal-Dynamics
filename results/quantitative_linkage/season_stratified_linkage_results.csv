@@ -1,0 +1,5 @@
+﻿Season,Months,n,Spearman_rho,P_value,Direction,P_lt_0_05
+Winter,Dec–Feb,91,0.24825609173435265,0.017656334975191135,Positive,True
+Spring,Mar–May,92,0.2499884407317787,0.01624731004986462,Positive,True
+Summer,Jun–Aug,92,0.46836613596781895,2.498589115972313e-06,Positive,True
+Autumn,Sep–Nov,91,0.8556935817805383,3.378456774053615e-27,Positive,True

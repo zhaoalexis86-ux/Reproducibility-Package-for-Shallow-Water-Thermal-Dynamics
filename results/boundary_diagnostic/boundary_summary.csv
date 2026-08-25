@@ -1,0 +1,6 @@
+Metric,Value,Unit,Status
+Water-surface area,260,m2,Measured basin geometry
+Wetted concrete area,444.8,m2,Calculated from basin geometry and nominal water depth
+Annual mean residual,52.717504735158,W m^-2,Calculated surface-area-normalized energy residual
+Equivalent whole-basin residual power,13.706551231141,kW,Diagnostic conversion; not a measured boundary heat flow
+Required equivalent wetted-boundary flux,30.815088199508,W m^-2,Diagnostic conversion; not a measured wall or bottom flux

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility package, please cite the associated manuscript and the archived repository release. Zenodo DOI pending."
+title: "Reproducibility package for Seasonal Energy Budget and Thermal Stratification Stability in a Confined Shallow Thermal System"
+type: software
+authors:
+  - family-names: Ma
+    given-names: Jun
+  - family-names: Zhao
+    given-names: Guo-shuo
+  - family-names: Xu
+    given-names: Ya-qian
+  - family-names: Zhou
+    given-names: Jie
+  - family-names: Liu
+    given-names: De-fu
+version: 0.1.0
+date-released: 2026-08-25

@@ -1,0 +1,10 @@
+﻿Parameter,Range_or_values,Status_and_basis,Source
+Concrete thermal conductivity,1.0-2.5 W m-1 K-1,Scenario subset within experimentally reported variability; not measured at this site,https://doi.org/10.1016/S0008-8846(02)00965-1
+Concrete moisture dependence,Context only,Moisture and density affect k; reinforces scenario treatment,https://doi.org/10.1177/014362449201300105
+Concrete thickness,"0.15, 0.20, 0.25, 0.30 m",Assumed scenarios because construction drawings were unavailable,No site measurement
+Water albedo,0.05-0.14,Literature-informed open-water/turbid-water scenarios; baseline 0.07 retained,https://doi.org/10.1016/j.ecolind.2023.109905
+Water emissivity,0.96-0.99,Laboratory/field-informed scenarios; baseline 0.97 retained,https://doi.org/10.1175/1520-0450(1972)011%3C1391:LDOWSE%3E2.0.CO;2
+CE and CH,1.0e-3 to 1.9e-3,Covers constant and higher literature values; baseline 1.3e-3 retained,https://doi.org/10.1029/2009JD012839
+Brutsaert coefficient,0.642 +/- 10%,Sensitivity bracket for an empirical atmospheric-emissivity parameter; not a measured local range,https://doi.org/10.1029/WR011i005p00742
+Inferred cloud cover,"0.8x, 1.0x, 1.2x",Sensitivity bracket around the Luo-type shortwave inference; not measured cloud fraction,https://doi.org/10.1016/j.solener.2010.01.012
+Wind-profile exponent,"0.08, 0.11, 1/7, 0.20",Includes Hsu et al. over-water estimate 0.11 +/- 0.03 and wider scenario,https://doi.org/10.1175/1520-0450(1994)033%3C0757:DTPLWP%3E2.0.CO;2

@@ -1,0 +1,3 @@
+﻿Analysis,Relationship,Method,n,Estimate,P_value,Slope,Intercept,R2,RMSE_W_m2,Primary_or_sensitivity
+Daily Qnet–S regression,Daily mean S = intercept + slope × daily mean Qnet,Ordinary least-squares linear regression,366,0.7919940122752134,5.232654420609584e-80,0.574926094470259,-30.6863077985387,0.6272545154797908,32.29593951057819,Existing primary storage linkage
+"Daytime heat input–daily maximum St, lag 0",Daytime-integrated Qnet versus same-day maximum Schmidt stability,Spearman rank correlation,366,0.642684018550394,4.986564264542201e-44,,,,,Primary

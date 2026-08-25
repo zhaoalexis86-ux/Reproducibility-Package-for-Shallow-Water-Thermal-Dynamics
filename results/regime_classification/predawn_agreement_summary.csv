@@ -1,0 +1,3 @@
+﻿Method,Daily_classification_agreement_percent,Changed_daily_labels,Spring_persistent_day_Jaccard_percent,Winter_mixed_day_Jaccard_percent,Summer_diel_day_Jaccard_percent,Winter_dominant_regime,Spring_dominant_regime,Summer_dominant_regime,Autumn_decay_days,Autumn_diel_days,Autumn_mixed_days,September_mixed_days,November_mixed_days,Autumn_progressive_transition_supported,Principal_seasonal_interpretation_preserved
+Pre-dawn 1 h,99.4535519125683,2,98.79518072289157,100.0,100.0,Near-isothermal mixing,Persistent stratification,Diurnally oscillating stratification,25,32,34,3,20,True,True
+Pre-dawn 2 h,99.4535519125683,2,98.79518072289157,100.0,100.0,Near-isothermal mixing,Persistent stratification,Diurnally oscillating stratification,25,32,34,3,20,True,True

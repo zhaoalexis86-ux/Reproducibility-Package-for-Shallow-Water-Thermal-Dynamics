@@ -1,0 +1,27 @@
+﻿Scenario_ID,Parameter,Case,Spring_dominant_heat_input,Summer_dominant_heat_input,Summer_dominant_cooling_term,Winter_dominant_cooling_term,Autumn_cooling_ranking,Baseline_core_ranking_changes,Core_ranking_preserved_flag
+BASE,Baseline,baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+ALB_0.05,Water albedo,low,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+ALB_0.07,Water albedo,baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+ALB_0.10,Water albedo,high,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+EMIS_0.96,Water emissivity,low,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+EMIS_0.97,Water emissivity,baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+EMIS_0.99,Water emissivity,high,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+CE_-20,Latent transfer coefficient CE,-20%,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+CE_-10,Latent transfer coefficient CE,-10%,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+CE_+0,Latent transfer coefficient CE,+0%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CE_+10,Latent transfer coefficient CE,+10%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CE_+20,Latent transfer coefficient CE,+20%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CH_-20,Sensible transfer coefficient CH,-20%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CH_-10,Sensible transfer coefficient CH,-10%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CH_+0,Sensible transfer coefficient CH,+0%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CH_+10,Sensible transfer coefficient CH,+10%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CH_+20,Sensible transfer coefficient CH,+20%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+RSO_0.9,Clear-sky radiation scale,-10%,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+RSO_1.0,Clear-sky radiation scale,baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+RSO_1.1,Clear-sky radiation scale,+10%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CLOUD_0.8,Inferred cloud-cover scale,-20%,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+CLOUD_1.0,Inferred cloud-cover scale,baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+CLOUD_1.2,Inferred cloud-cover scale,+20%,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+WIND_1/8,2-m to 10-m wind exponent,1/8,Qsw,Qsw,Qe,Qlw,Qlw > Qe > Qh,False,1
+WIND_1/7 baseline,2-m to 10-m wind exponent,1/7 baseline,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1
+WIND_1/6,2-m to 10-m wind exponent,1/6,Qsw,Qsw,Qe,Qlw,Qe > Qlw > Qh,False,1

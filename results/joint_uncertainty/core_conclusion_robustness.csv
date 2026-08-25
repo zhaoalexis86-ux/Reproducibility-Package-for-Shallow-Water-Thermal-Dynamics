@@ -1,0 +1,3 @@
+﻿Scientific_statement,Criterion,Scenarios_satisfying,Scenarios_total,Classification
+Spring and summer shortwave-dominated heat input,Qsw is the largest positive component in every OAT scenario in both seasons,26,26,robust
+Summer latent to winter longwave dominant-cooling shift,Qe is dominant cooling in summer and Qlw is dominant cooling in winter in every OAT scenario,26,26,robust

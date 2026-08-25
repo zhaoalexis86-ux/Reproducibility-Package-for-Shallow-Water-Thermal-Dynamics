@@ -1,0 +1,16 @@
+﻿Method,Regime,Winter_days,Spring_days,Summer_days,Autumn_days
+Current full-night,Near-isothermal mixing,72,0,0,34
+Current full-night,Persistent stratification,11,83,18,0
+Current full-night,Diurnally oscillating stratification,0,6,70,32
+Current full-night,Decaying stratification,0,0,0,25
+Current full-night,Transition/unclassified,8,3,4,0
+Pre-dawn 1 h,Near-isothermal mixing,72,0,0,34
+Pre-dawn 1 h,Persistent stratification,10,82,18,0
+Pre-dawn 1 h,Diurnally oscillating stratification,0,7,70,32
+Pre-dawn 1 h,Decaying stratification,0,0,0,25
+Pre-dawn 1 h,Transition/unclassified,9,3,4,0
+Pre-dawn 2 h,Near-isothermal mixing,72,0,0,34
+Pre-dawn 2 h,Persistent stratification,10,82,18,0
+Pre-dawn 2 h,Diurnally oscillating stratification,0,7,70,32
+Pre-dawn 2 h,Decaying stratification,0,0,0,25
+Pre-dawn 2 h,Transition/unclassified,9,3,4,0
