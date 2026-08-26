@@ -1,5 +1,5 @@
 # CSITE data and code package
-
+[![DOI](https://zenodo.org/badge/1346691264.svg)](https://doi.org/10.5281/zenodo.22103459)
 ### 1. Package overview
 
 This package accompanies:
